@@ -21,8 +21,8 @@
       homepage: 'https://www.keethealth.com/',
       careers: 'https://www.keethealth.com/jobs/',
       address: 'East 6th Street #206, Austin, TX',
-      plusCode: '7795+4H Austin, Texas'
-    }
+      plusCode: '7795+4H Austin, Texas',
+    },
   ]
   // THE LIST ENDS HERE
 

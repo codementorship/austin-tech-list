@@ -17,6 +17,14 @@
   // THE LIST STARTS HERE
   return [
     {
+      name: 'Bumble',
+      homepage: 'https://bumble.com/',
+      careers: 'https://bumble.com/jobs',
+      address: 'West 41st Street, Austin, TX',
+      plusCode: '8755+R3 Austin, Texas',
+    },
+
+    {
       name: 'Keet Health',
       homepage: 'https://www.keethealth.com/',
       careers: 'https://www.keethealth.com/jobs/',

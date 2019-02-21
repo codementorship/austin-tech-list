@@ -33,6 +33,14 @@
     },
 
     {
+      name: 'ShipStation',
+      homepage: 'https://www.shipstation.com/',
+      careers: 'https://www.shipstation.com/careers/',
+      address: '3800 N Lamar Blvd #220, Austin, TX 78756',
+      plusCode: '8744+FR Austin, Texas',
+    },
+    
+    {
       name: 'uShip',
       homepage: 'https://www.uship.com/',
       careers: 'https://about.uship.com/careers/listings/',

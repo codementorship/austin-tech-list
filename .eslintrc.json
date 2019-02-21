@@ -6,16 +6,12 @@
   },
   "extends": "standard",
   "globals": {
-    "Atomics": "readonly",
-    "SharedArrayBuffer": "readonly",
-    "define": "readonly",
-    "test": "readonly",
-    "expect": "readonly"
+    "define": "readonly"
   },
   "parserOptions": {
     "ecmaVersion": 2018
   },
   "rules": {
-    "comma-dangle": ["error", "always"]
+    "comma-dangle": ["error", "always-multiline"]
   }
 }

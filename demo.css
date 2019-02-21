@@ -1,0 +1,15 @@
+label, input {
+  display: block;
+  font-size: 1rem;
+  font-family: serif;
+  margin-bottom: 0.5rem;
+}
+
+ul {
+  margin-bottom: 2rem;
+}
+
+ul ul {
+  padding: 0;
+  list-style-type: none;
+}

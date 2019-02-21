@@ -1,3 +1,4 @@
+/* global test, expect */
 const austinTechList = require('./index')
 
 test('exports an array', () => {
@@ -12,6 +13,16 @@ test('entries only contain required keys', () => {
     expect(typeof entry['address']).toBe('string')
     expect(typeof entry['plusCode']).toBe('string')
     expect(Object.keys(entry).length).toBe(5)
+  })
+})
+
+test('entries are in alphabetical order by name', () => {
+  const sorted = [...austinTechList].sort(
+    (a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase())
+  )
+
+  austinTechList.forEach((entry, index) => {
+    expect(entry.name === sorted[index].name).toBe(true)
   })
 })
 

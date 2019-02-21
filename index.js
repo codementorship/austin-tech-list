@@ -23,7 +23,7 @@
       address: '1717 W 6th St, Austin, TX 78703',
       plusCode: '76GM+FM Austin, Texas',
     },
-    
+
     {
       name: 'Bumble',
       homepage: 'https://bumble.com/',

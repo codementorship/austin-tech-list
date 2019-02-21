@@ -3,17 +3,17 @@
  * the list using their preferred method
  * and is inspired by webpackUniversalModuleDefinition
  */
-(function universalModuleDefinition(root, factory) {
-  if (typeof exports === 'object' && typeof module === 'object')
-    module.exports = factory();
-  else if (typeof define === 'function' && define.amd)
-    define("austinTechList", [], factory);
-  else if (typeof exports === 'object')
-    exports["austinTechList"] = factory();
-  else
-    root["austinTechList"] = factory();
-})(this, function factory() {
-
+(function universalModuleDefinition (root, factory) {
+  if (typeof exports === 'object' && typeof module === 'object') {
+    module.exports = factory()
+  } else if (typeof define === 'function' && define.amd) {
+    define('austinTechList', [], factory)
+  } else if (typeof exports === 'object') {
+    exports['austinTechList'] = factory()
+  } else {
+    root['austinTechList'] = factory()
+  }
+})(this, function factory () {
   // THE LIST STARTS HERE
   return [
     {
@@ -57,5 +57,4 @@
     },
   ]
   // THE LIST ENDS HERE
-
-});
+})

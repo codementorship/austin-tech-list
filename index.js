@@ -23,6 +23,14 @@
       address: 'East 6th Street #206, Austin, TX',
       plusCode: '7795+4H Austin, Texas',
     },
+
+    {
+      name: 'uShip',
+      homepage: 'https://www.uship.com/',
+      careers: 'https://about.uship.com/careers/listings/',
+      address: '205 E Riverside Dr, Austin, TX 78704',
+      plusCode: '7734+W2 Austin, Texas',
+    },
   ]
   // THE LIST ENDS HERE
 

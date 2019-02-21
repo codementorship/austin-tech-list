@@ -23,6 +23,14 @@
       address: 'East 6th Street #206, Austin, TX',
       plusCode: '7795+4H Austin, Texas',
     },
+
+    {
+      name: 'ShipStation',
+      homepage: 'https://www.shipstation.com/',
+      careers: 'https://www.shipstation.com/careers/',
+      address: '3800 N Lamar Blvd #220, Austin, TX 78756',
+      plusCode: '8744+FR Austin, Texas',
+    },
   ]
   // THE LIST ENDS HERE
 

@@ -25,6 +25,14 @@
     },
 
     {
+      name: 'Bloomfire',
+      homepage: 'https://bloomfire.com/',
+      careers: 'https://bloomfire.com/about-us/careers/',
+      address: '1717 W 6th St, Austin, TX 78703',
+      plusCode: '76GM+FM Austin, Texas',
+    }
+
+    {
       name: 'Cloudflare',
       homepage: 'https://www.cloudflare.com/',
       careers: 'https://www.cloudflare.com/careers/departments/engineering/',

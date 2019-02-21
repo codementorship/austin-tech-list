@@ -17,20 +17,20 @@
   // THE LIST STARTS HERE
   return [
     {
+      name: 'Bloomfire',
+      homepage: 'https://bloomfire.com/',
+      careers: 'https://bloomfire.com/about-us/careers/',
+      address: '1717 W 6th St, Austin, TX 78703',
+      plusCode: '76GM+FM Austin, Texas',
+    },
+    
+    {
       name: 'Bumble',
       homepage: 'https://bumble.com/',
       careers: 'https://bumble.com/jobs',
       address: '1105 W 41st St, Austin, TX 78756',
       plusCode: '8755+R3 Austin, Texas',
     },
-
-    {
-      name: 'Bloomfire',
-      homepage: 'https://bloomfire.com/',
-      careers: 'https://bloomfire.com/about-us/careers/',
-      address: '1717 W 6th St, Austin, TX 78703',
-      plusCode: '76GM+FM Austin, Texas',
-    }
 
     {
       name: 'Cloudflare',

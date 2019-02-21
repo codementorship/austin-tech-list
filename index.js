@@ -23,6 +23,14 @@
       address: 'West 41st Street, Austin, TX',
       plusCode: '8755+R3 Austin, Texas',
     },
+    
+    {
+      name: 'Cloudflare',
+      homepage: 'https://www.cloudflare.com/',
+      careers: 'https://www.cloudflare.com/careers/departments/engineering/',
+      address: '106 E 6th St, Austin, TX 78701',
+      plusCode: '7795+63 Austin, Texas',
+    },
 
     {
       name: 'Keet Health',

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Austin Tech List</title>
+
+  <style>
+    label, input {
+      display: block;
+      font-size: 1rem;
+      font-family: serif;
+      margin-bottom: 0.5rem;
+    }
+
+    ul {
+      margin-bottom: 2rem;
+    }
+
+    ul ul {
+      padding: 0;
+      list-style-type: none;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Austin Tech List</h1>
+
+  <label for="filter-list">Filter list by company name</label>
+  <input name="filter-list" id="filter-list" />
+
+  <div id="list-container"></div>
+</body>
+
+<script src="index.js"></script>
+<script>
+  function renderList(event) {
+    var list = austinTechList;
+
+    // Filter list if we receive event value
+    if (event && event.target && event.target.value) {
+      var name;
+      var search = event.target.value.toLowerCase();
+      list = list.filter(function (entry) {
+        name = entry.name.toLowerCase();
+        return name.includes(search);
+      });
+    }
+
+    var create = document.createElement.bind(document);
+    var container = document.getElementById('list-container');
+
+    // Remove container contents
+    while (container.firstChild) {
+      container.removeChild(container.firstChild);
+    }
+
+    // Create and add the list of companies
+    var outerList = create('ul');
+    container.appendChild(outerList);
+
+    // Used to insure that we're displaying
+    // company data in the correct order
+    var innerListOrder = [
+      'name',
+      'homepage',
+      'careers',
+      'address',
+      'plusCode'
+    ];
+
+    // Loop over the list of companies
+    // making inner lists of the data
+    var innerListWrapper, innerList, listItem;
+    list.forEach(function (entry) {
+      innerListWrapper = create('li');
+      outerList.appendChild(innerListWrapper);
+
+      innerList = create('ul');
+      innerListWrapper.appendChild(innerList);
+
+      innerListOrder.forEach(function (key) {
+        listItem = create('li');
+        listItem.innerText = entry[key];
+        innerList.appendChild(listItem);
+      });
+    });
+  }
+
+  document.getElementById('filter-list').oninput = renderList
+
+  renderList();
+</script>
+
+</html>

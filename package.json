@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "A list of places in Austin that hire developers",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codementorship/austin-tech-list.git"
@@ -11,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/codementorship/austin-tech-list/issues"
   },
-  "homepage": "https://github.com/codementorship/austin-tech-list#readme"
+  "homepage": "https://github.com/codementorship/austin-tech-list#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
 }

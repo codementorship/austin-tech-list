@@ -28,3 +28,7 @@ WIP project to create a list of places in Austin that hire developers.
 3. Submit a pull request
 
 For more information, [read about forking and submitting PRs](https://guides.github.com/activities/forking/). Remember, there's nothing to fear about submitting a PR - everything gets reviewed and tested before getting added to the `master` branch!
+
+## Suggesting an addition
+
+If you'd rather not submit a pull request, you can [file an suggestion here](https://github.com/codementorship/austin-tech-list/issues/new?assignees=&labels=good+first+issue&template=suggest-an-addition.md&title=Add+company%3A+%5BCOMPANY%5D).

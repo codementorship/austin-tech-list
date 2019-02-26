@@ -11,6 +11,8 @@ Thanks for suggesting an edit to the list! We just need a bit of information:
 
 __Company name:__
 
+__Are you sure this place has full-time developers on staff at all times? [Y/n]__
+
 __Home page:__
 
 __Career page:__
@@ -22,6 +24,8 @@ __Plus Code:__
 <<>><<>><<>><<>><<>><<>><<>>
 
 __Company name:__ the name of the company you would like added to the list.
+
+__Are you sure this place has full-time developers on staff at all times?__ we only want companies that keep developers as full-time employees. Companies that exclusively keep developers as part-time employees or contractors should not be added.
 
 __Home page:__ the landing page of their website. (ex: `https://www.example.com/` or `https://example.com/`)
 

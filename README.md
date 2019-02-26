@@ -31,4 +31,4 @@ For more information, [read about forking and submitting PRs](https://guides.git
 
 ## Suggesting an addition
 
-If you'd rather not submit a pull request, you can [file a suggestion here](https://github.com/codementorship/austin-tech-list/issues/new?assignees=&labels=good+first+issue&template=suggest-an-addition.md&title=Add+company%3A+%5BCOMPANY%5D).
+If you'd rather not submit a pull request, you can [file a suggestion here](https://github.com/codementorship/austin-tech-list/issues/new?assignees=&labels=enhancement%2C+good+first+issue&template=suggest-an-addition.md&title=Add+company%3A+%5BCOMPANY%5D).

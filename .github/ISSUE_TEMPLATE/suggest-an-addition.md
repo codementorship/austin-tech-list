@@ -2,22 +2,22 @@
 name: Suggest an addition
 about: Suggest an addition to the list
 title: 'Add company: [COMPANY]'
-labels: good first issue
+labels: enhancement, good first issue
 assignees: ''
 
 ---
 
 Thanks for suggesting an edit to the list! We just need a bit of information:
 
-Company name:
+__Company name:__
 
-Home page:
+__Home page:__
 
-Career page:
+__Career page:__
 
-Address:
+__Address:__
 
-Plus Code:
+__Plus Code:__
 
 <<>><<>><<>><<>><<>><<>><<>>
 

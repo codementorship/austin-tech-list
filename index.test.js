@@ -36,7 +36,7 @@ test('addresses are in Austin with ZIP codes or Remote', () => {
 test('plus codes are valid', () => {
   const regex = /^[23456789CFGHJMPQRVWX]{4}\+[23456789CFGHJMPQRVWX]{2} Austin, Texas$/
   austinTechList.forEach(entry => {
-    expect(regex.test(entry.plusCode) || (entry.plusCode === "" && entry.address === "Remote")).toBe(true)
+    expect(regex.test(entry.plusCode) || (entry.plusCode === '' && entry.address === 'Remote')).toBe(true)
   })
 })
 

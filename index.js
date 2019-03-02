@@ -17,6 +17,14 @@
   // THE LIST STARTS HERE
   return [
     {
+      name: 'Aunt Bertha',
+      homepage: 'https://www.auntbertha.com/',
+      careers: '',
+      address: '3429 Executive Center Dr, Austin, TX 78731',
+      plusCode: '9753+F3 Austin, TX, USA',
+    },
+    
+    {
       name: 'Bloomfire',
       homepage: 'https://bloomfire.com/',
       careers: 'https://bloomfire.com/about-us/careers/',
@@ -62,14 +70,6 @@
       careers: 'https://about.uship.com/careers/listings/',
       address: '205 E Riverside Dr, Austin, TX 78704',
       plusCode: '7734+W2 Austin, Texas',
-    },
-
-    {
-      name: 'Aunt Bertha',
-      homepage: 'https://www.auntbertha.com/',
-      careers: '',
-      address: '3429 Executive Center Dr, Austin, TX 78731',
-      plusCode: '9753+F3 Austin, TX, USA',
     },
   ]
   // THE LIST ENDS HERE

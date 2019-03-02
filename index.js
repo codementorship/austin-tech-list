@@ -41,6 +41,14 @@
     },
 
     {
+      name: 'HomeAway',
+      homepage: 'https://www.homeaway.com/',
+      careers: 'https://www.homeaway.com/careers/openings/',
+      address: '11800 Domain Blvd #300, Austin, TX 78758',
+      plusCode: 'C73H+V9 Austin, Texas',
+    },
+
+    {
       name: 'Keet Health',
       homepage: 'https://www.keethealth.com/',
       careers: 'https://www.keethealth.com/jobs/',

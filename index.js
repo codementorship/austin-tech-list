@@ -19,7 +19,7 @@
     {
       name: 'Aunt Bertha',
       homepage: 'https://www.auntbertha.com/',
-      careers: 'N/A',
+      careers: 'https://www.auntbertha.com/',
       address: '3429 Executive Center Dr, Austin, TX 78731',
       plusCode: '9753+F3 Austin, Texas',
     },

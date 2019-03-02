@@ -26,15 +26,15 @@ test('entries are in alphabetical order by name', () => {
   })
 })
 
-test('addresses are in Austin with ZIP codes', () => {
-  const regex = /Austin, TX \d{5}$/
+test('addresses are in Austin with ZIP codes or Remote', () => {
+  const regex = /(Austin, TX \d{5}$)|(^Remote$)/
   austinTechList.forEach(entry => {
     expect(regex.test(entry.address)).toBe(true)
   })
 })
 
 test('plus codes are valid', () => {
-  const regex = /^[23456789CFGHJMPQRVWX]{4}\+[23456789CFGHJMPQRVWX]{2} Austin, Texas$/
+  const regex = /(^[23456789CFGHJMPQRVWX]{4}\+[23456789CFGHJMPQRVWX]{2} Austin, Texas$)|(^Remote$)/
   austinTechList.forEach(entry => {
     expect(regex.test(entry.plusCode)).toBe(true)
   })

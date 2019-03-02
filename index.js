@@ -49,6 +49,14 @@
     },
 
     {
+      name: 'Khan Academy',
+      homepage: 'https://www.khanacademy.org/',
+      careers: 'https://www.khanacademy.com/jobs/',
+      address: 'Remote',
+      plusCode: 'Remote',
+    },
+
+    {
       name: 'ShipStation',
       homepage: 'https://www.shipstation.com/',
       careers: 'https://www.shipstation.com/careers/',

@@ -49,6 +49,14 @@
     },
 
     {
+      name: 'Rabbet',
+      homepage: 'https://rabbet.com/',
+      careers: 'https://rabbet.com/career/',
+      address: '2700 W Anderson Lane, Suite 205-15, Austin, Texas 78757',
+      plusCode: '9758+J7 Austin, Texas',
+    },
+
+    {
       name: 'ShipStation',
       homepage: 'https://www.shipstation.com/',
       careers: 'https://www.shipstation.com/careers/',

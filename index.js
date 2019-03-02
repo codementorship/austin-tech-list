@@ -51,7 +51,7 @@
     {
       name: 'Khan Academy',
       homepage: 'https://www.khanacademy.org/',
-      careers: 'https://www.khanacademy.com/jobs/',
+      careers: 'https://www.khanacademy.org/jobs/',
       address: 'Remote',
       plusCode: '',
     },

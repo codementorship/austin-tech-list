@@ -63,6 +63,14 @@
       address: '205 E Riverside Dr, Austin, TX 78704',
       plusCode: '7734+W2 Austin, Texas',
     },
+
+    {
+      name: 'Under Armor',
+      homepage: 'https://www.underarmour.com',
+      careers: 'https://careers.underarmour.com/austin',
+      address: '211 Walter Seaholm Dr #200, Austin, TX 78701',
+      plusCode: '768W+XW Austin, Texas',
+    }
   ]
   // THE LIST ENDS HERE
 })

@@ -17,6 +17,14 @@
   // THE LIST STARTS HERE
   return [
     {
+      name: 'Aunt Bertha',
+      homepage: 'https://www.auntbertha.com/',
+      careers: 'https://www.auntbertha.com/',
+      address: '3429 Executive Center Dr, Austin, TX 78731',
+      plusCode: '9753+F3 Austin, Texas',
+    },
+
+    {
       name: 'Bloomfire',
       homepage: 'https://bloomfire.com/',
       careers: 'https://bloomfire.com/about-us/careers/',

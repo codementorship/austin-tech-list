@@ -19,11 +19,11 @@
     {
       name: 'Aunt Bertha',
       homepage: 'https://www.auntbertha.com/',
-      careers: '',
+      careers: 'N/A',
       address: '3429 Executive Center Dr, Austin, TX 78731',
       plusCode: '9753+F3 Austin, TX, USA',
     },
-    
+
     {
       name: 'Bloomfire',
       homepage: 'https://bloomfire.com/',

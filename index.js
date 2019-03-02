@@ -53,7 +53,7 @@
       homepage: 'https://www.khanacademy.org/',
       careers: 'https://www.khanacademy.com/jobs/',
       address: 'Remote',
-      plusCode: 'Remote',
+      plusCode: '',
     },
 
     {

@@ -57,19 +57,21 @@
     },
 
     {
-      name: 'uShip',
-      homepage: 'https://www.uship.com/',
-      careers: 'https://about.uship.com/careers/listings/',
-      address: '205 E Riverside Dr, Austin, TX 78704',
-      plusCode: '7734+W2 Austin, Texas',
-    },
-    {
       name: 'The Zebra',
       homepage: 'https://www.thezebra.com/',
       careers: 'https://www.thezebra.com/careers/#careers',
       address: '301 Chicon St Ste A, Austin, TX 78702',
       plusCode: '775G+HJ Austin, Texas',
     },
+
+    {
+      name: 'uShip',
+      homepage: 'https://www.uship.com/',
+      careers: 'https://about.uship.com/careers/listings/',
+      address: '205 E Riverside Dr, Austin, TX 78704',
+      plusCode: '7734+W2 Austin, Texas',
+    },
+
   ]
   // THE LIST ENDS HERE
 })

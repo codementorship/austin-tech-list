@@ -20,7 +20,7 @@
       name: 'Bloomfire',
       homepage: 'https://bloomfire.com/',
       careers: 'https://bloomfire.com/about-us/careers/',
-      address: '1717 W 6th St, Austin, TX 78703',
+      address: '1717 W 6th St, Austin, Texas 78703',
       plusCode: '76GM+FM Austin, Texas',
     },
 
@@ -28,7 +28,7 @@
       name: 'Bumble',
       homepage: 'https://bumble.com/',
       careers: 'https://bumble.com/jobs',
-      address: '1105 W 41st St, Austin, TX 78756',
+      address: '1105 W 41st St, Austin, Texas 78756',
       plusCode: '8755+R3 Austin, Texas',
     },
 
@@ -36,7 +36,7 @@
       name: 'Cloudflare',
       homepage: 'https://www.cloudflare.com/',
       careers: 'https://www.cloudflare.com/careers/departments/engineering/',
-      address: '106 E 6th St, Austin, TX 78701',
+      address: '106 E 6th St, Austin, Texas 78701',
       plusCode: '7795+63 Austin, Texas',
     },
 
@@ -44,7 +44,7 @@
       name: 'Keet Health',
       homepage: 'https://www.keethealth.com/',
       careers: 'https://www.keethealth.com/jobs/',
-      address: '200 E 6th St #206, Austin, TX 78701',
+      address: '200 E 6th St #206, Austin, Texas 78701',
       plusCode: '7795+4H Austin, Texas',
     },
 
@@ -60,7 +60,7 @@
       name: 'ShipStation',
       homepage: 'https://www.shipstation.com/',
       careers: 'https://www.shipstation.com/careers/',
-      address: '3800 N Lamar Blvd #220, Austin, TX 78756',
+      address: '3800 N Lamar Blvd #220, Austin, Texas 78756',
       plusCode: '8744+FR Austin, Texas',
     },
 
@@ -68,7 +68,7 @@
       name: 'uShip',
       homepage: 'https://www.uship.com/',
       careers: 'https://about.uship.com/careers/listings/',
-      address: '205 E Riverside Dr, Austin, TX 78704',
+      address: '205 E Riverside Dr, Austin, Texas 78704',
       plusCode: '7734+W2 Austin, Texas',
     },
   ]

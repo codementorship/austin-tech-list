@@ -1,6 +1,6 @@
 # Austin Tech List
 
-WIP project to create a list of places in Austin that hire developers.
+WIP project to create a list of places in Austin that hire developers or places that support developers working remotely from Austin.
 
 ## Submitting an addition
 

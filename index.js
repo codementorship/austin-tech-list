@@ -17,6 +17,14 @@
   // THE LIST STARTS HERE
   return [
     {
+      name: 'Aunt Bertha',
+      homepage: 'https://www.auntbertha.com/',
+      careers: 'https://www.auntbertha.com/',
+      address: '3429 Executive Center Dr, Austin, TX 78731',
+      plusCode: '9753+F3 Austin, Texas',
+    },
+
+    {
       name: 'Bloomfire',
       homepage: 'https://bloomfire.com/',
       careers: 'https://bloomfire.com/about-us/careers/',
@@ -38,6 +46,14 @@
       careers: 'https://www.cloudflare.com/careers/departments/engineering/',
       address: '106 E 6th St, Austin, Texas 78701',
       plusCode: '7795+63 Austin, Texas',
+    },
+
+    {
+      name: 'HomeAway',
+      homepage: 'https://www.homeaway.com/',
+      careers: 'https://www.homeaway.com/careers/openings/',
+      address: '11800 Domain Blvd #300, Austin, TX 78758',
+      plusCode: 'C73H+V9 Austin, Texas',
     },
 
     {
@@ -65,12 +81,21 @@
     },
 
     {
+      name: 'The Zebra',
+      homepage: 'https://www.thezebra.com/',
+      careers: 'https://www.thezebra.com/careers/#careers',
+      address: '301 Chicon St Ste A, Austin, TX 78702',
+      plusCode: '775G+HJ Austin, Texas',
+    },
+
+    {
       name: 'uShip',
       homepage: 'https://www.uship.com/',
       careers: 'https://about.uship.com/careers/listings/',
       address: '205 E Riverside Dr, Austin, Texas 78704',
       plusCode: '7734+W2 Austin, Texas',
     },
+
   ]
   // THE LIST ENDS HERE
 })

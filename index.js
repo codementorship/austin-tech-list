@@ -65,13 +65,29 @@
     },
 
     {
+<<<<<<< HEAD
       name: 'Rabbet',
       homepage: 'https://rabbet.com/',
       careers: 'https://rabbet.com/career/',
       address: '2700 W Anderson Lane, Suite 205-15, Austin, Texas 78757',
       plusCode: '9758+J7 Austin, Texas',
+=======
+      name: 'Khan Academy',
+      homepage: 'https://www.khanacademy.org/',
+      careers: 'https://www.khanacademy.org/jobs/',
+      address: 'Remote',
+      plusCode: '',
+>>>>>>> f37c21c888a1b2c8574154250a341e80b81daebc
     },
-
+    
+    {
+      name: 'Rabbet',
+      homepage: 'https://rabbet.com/',
+      careers: 'https://rabbet.com/career/',
+      address: '2700 W Anderson Lane, Suite 205-15, Austin, TX 78757',
+      plusCode: '9758+J7 Austin, Texas',
+    },
+    
     {
       name: 'ShipStation',
       homepage: 'https://www.shipstation.com/',

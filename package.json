@@ -6,7 +6,10 @@
   "scripts": {
     "test": "jest",
     "lint": "eslint *.js",
-    "check": "npm run lint && npm run test"
+    "check": "npm run lint && npm run test",
+    "prettier": "prettier --write *",
+    "pre-commit": "npm run standard && npm run prettier && npm run check",
+    "standard": "standard --fix"
   },
   "repository": {
     "type": "git",
@@ -18,11 +21,14 @@
   "homepage": "https://github.com/codementorship/austin-tech-list#readme",
   "devDependencies": {
     "eslint": "^5.14.1",
+    "eslint-config-prettier": "^4.1.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-node": "^8.0.1",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
-    "jest": "^24.1.0"
+    "jest": "^24.1.0",
+    "prettier": "1.16.4",
+    "standard": "^12.0.1"
   }
 }

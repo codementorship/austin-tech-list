@@ -32,7 +32,7 @@
       'homepage',
       'careers',
       'address',
-      'plusCode',
+      'plusCode'
     ]
 
     // Loop over the list of companies

@@ -4,14 +4,14 @@
     "commonjs": true,
     "es6": true
   },
-  "extends": "standard",
+  "extends": [
+    "standard",
+    "prettier"
+  ],
   "globals": {
     "define": "readonly"
   },
   "parserOptions": {
     "ecmaVersion": 2018
-  },
-  "rules": {
-    "comma-dangle": ["error", "always-multiline"]
   }
 }

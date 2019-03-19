@@ -7,7 +7,7 @@ WIP project to create a list of places in Austin that hire developers or places 
 1. Fork the repo
 2. Add an entry to the list in `index.js`:
 
-``` JavaScript
+```JavaScript
     {
       // The previous entry
     },

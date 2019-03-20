@@ -51,6 +51,14 @@
     },
 
     {
+      name: 'General Motors',
+      homepage: 'https://www.gm.com/',
+      careers: 'https://search-careers.gm.com/c/information-technology-jobs',
+      address: '13201 McCallen Pass, Austin, TX 78753',
+      plusCode: 'C87Q+4V Austin, Texas'
+    },
+
+    {
       name: 'HomeAway',
       homepage: 'https://www.homeaway.com/',
       careers: 'https://www.homeaway.com/careers/openings/',

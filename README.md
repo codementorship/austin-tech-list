@@ -16,15 +16,15 @@ Remember, there's nothing to fear about submitting a pull request - everything g
 
 There are a few things we test for before we accept changes to the list:
 
-* Objects must have `name`, `homepage`, `careers`, `address`, and `plusCode` keys. No more and no less than those keys.
+- Objects must have `name`, `homepage`, `careers`, `address`, and `plusCode` keys. No more and no less than those keys.
 
-* Entries must be in alphabetical order. This includes things like "The" and "A" since we're just testing with the plain old JavaScript `Array.sort()` method.
+- Entries must be in alphabetical order. This includes things like "The" and "A" since we're just testing with the plain old JavaScript `Array.sort()` method.
 
-* Addresses must be `Remote` or end with `Austin, TX \d{5}` where `\d{5}` is the five digit ZIP code. If you copy the address from Google Maps, it should be in this format.
+- Addresses must be `Remote` or end with `Austin, TX \d{5}` where `\d{5}` is the five digit ZIP code. If you copy the address from Google Maps, it should be in this format.
 
-* Plus codes must be in the format `XXXX-XX Austin, Texas` where the `X`s are the unique plus code. If you copy the plus code from Google Maps, it should be in this format.
+- Plus codes must be in the format `XXXX-XX Austin, Texas` where the `X`s are the unique plus code. If you copy the plus code from Google Maps, it should be in this format.
 
-* URLs must begin with `http://` or `https://`. If you copy the URL from your browser, it should be in this format.
+- URLs must begin with `http://` or `https://`. If you copy the URL from your browser, it should be in this format.
 
 ### Contribution Dependencies
 

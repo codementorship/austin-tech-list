@@ -7,14 +7,14 @@ Project to create a list of places in Austin that hire developers or places that
 Install by running `npm install austin-tech-list` and import it...
 
 ```JavaScript
-import austinTechList from 'austinTechList'
+import austinTechList from 'austin-tech-list'
 console.log(austinTechList) // [{}...]
 ```
 
 ...or require it.
 
 ```JavaScript
-var austinTechList = require('austinTechList')
+var austinTechList = require('austin-tech-list')
 console.log(austinTechList) // [{}...]
 ```
 

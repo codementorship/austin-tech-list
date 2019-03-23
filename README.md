@@ -2,6 +2,31 @@
 
 Project to create a list of places in Austin that hire developers or places that support developers working remotely from Austin. Created by [Austin Code Mentorship](https://www.meetup.com/Austin-Code-Mentorship/).
 
+## Usage
+
+Install by running `npm install austin-tech-list` and import it...
+
+```JavaScript
+import austinTechList from 'austinTechList'
+console.log(austinTechList) // [{}...]
+```
+
+...or require it.
+
+```JavaScript
+var austinTechList = require('austinTechList')
+console.log(austinTechList) // [{}...]
+```
+
+It can also be referenced directly using a service such as `unpkg`...
+
+```HTML
+<script src="https://unpkg.com/austin-tech-list"></script>
+<script>
+  console.log(austinTechList) // [{}...]
+</script>
+```
+
 ## Suggesting an addition
 
 If there's a company you'd like added to the list, you can [submit a suggestion here](https://github.com/codementorship/austin-tech-list/issues/new?assignees=&labels=enhancement%2C+good+first+issue&template=suggest-an-addition.md&title=Add+company%3A+%5BCOMPANY%5D).

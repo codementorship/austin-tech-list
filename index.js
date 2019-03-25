@@ -75,6 +75,14 @@
     },
 
     {
+      name: 'EverlyWell',
+      homepage: 'https://www.everlywell.com/',
+      careers: 'https://www.everlywell.com/careers/',
+      address: '800 W Cesar Chavez St Austin, TX 78701',
+      plusCode: '768X+V5 Austin, Texas'
+    },
+
+    {
       name: 'Gartner',
       homepage: 'https://www.gartner.com/',
       careers: 'https://jobs.gartner.com/careers',

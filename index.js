@@ -91,6 +91,14 @@
     },
 
     {
+      name: 'Outdoor Voices',
+      homepage: 'https://www.outdoorvoices.com/',
+      careers: 'https://www.outdoorvoices.com/pages/careers',
+      address: '606 Blanco St, Austin, TX 78703',
+      plusCode: '76FV+75 Austin, Texas',
+    },
+
+    {
       name: 'The Zebra',
       homepage: 'https://www.thezebra.com/',
       careers: 'https://www.thezebra.com/careers/#careers',

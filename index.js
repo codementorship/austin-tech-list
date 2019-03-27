@@ -51,6 +51,14 @@
     },
 
     {
+      name: 'Compeat',
+      homepage: 'https://www.compeat.com/',
+      careers: 'https://boards.greenhouse.io/compeat',
+      address: '11500 Alterra Pkwy #130, Austin, TX 78758',
+      plusCode: 'C72H+FF Austin, Texas',
+    },
+
+    {
       name: 'General Motors',
       homepage: 'https://www.gm.com/',
       careers: 'https://search-careers.gm.com/c/information-technology-jobs',

@@ -99,6 +99,14 @@
     },
 
     {
+      name: 'TrendKite'
+      homepage: 'https://www.trendkite.com/',
+      careers: 'https://www.trendkite.com/careers',
+      address: '800 Brazos St #340, Austin, TX 78701',
+      plusCode: '77C5+2M Austin, Texas',
+    },
+
+    {
       name: 'uShip',
       homepage: 'https://www.uship.com/',
       careers: 'https://about.uship.com/careers/listings/',

@@ -171,35 +171,11 @@
     },
 
     {
-<<<<<<< HEAD
       name: 'Outdoor Voices',
       homepage: 'https://www.outdoorvoices.com/',
       careers: 'https://www.outdoorvoices.com/pages/careers',
       address: '606 Blanco St, Austin, TX 78703',
       plusCode: '76FV+75 Austin, Texas',
-=======
-      name: 'Social Solutions',
-      homepage: 'https://www.socialsolutions.com/',
-      careers: 'https://www.socialsolutions.com/about-us/working-here/careers/',
-      address: '10801 N Mopac Expy, Austin, TX 78759',
-      plusCode: '97X9+6W Austin, Texas'
-    },
-
-    {
-      name: 'Square Root',
-      homepage: 'https://square-root.com/',
-      careers: 'https://square-root.com/careers/',
-      address: '508 Oakland Ave, Austin, TX 78703',
-      plusCode: '76FQ+FF Austin, Texas'
-    },
-
-    {
-      name: 'Stoplight Inc',
-      homepage: 'https://stoplight.io/',
-      careers: 'https://angel.co/stoplight/jobs/',
-      address: '1100 S 1st St, Austin, TX 78704',
-      plusCode: '763W+8J Austin, Texas'
->>>>>>> master
     },
 
     {

@@ -121,6 +121,14 @@
       address: '600 Congress Ave, Austin, TX 78701',
       plusCode: '7794+8R Austin, Texas'
     },
+    
+    {
+      name: 'Outdoor Voices',
+      homepage: 'https://www.outdoorvoices.com/',
+      careers: 'https://www.outdoorvoices.com/pages/careers',
+      address: '606 Blanco St, Austin, TX 78703',
+      plusCode: '76FV+75 Austin, Texas',
+    },
 
     {
       name: 'Pinpoint',
@@ -168,14 +176,6 @@
       careers: 'https://www.shipstation.com/careers/',
       address: '3800 N Lamar Blvd #220, Austin, TX 78756',
       plusCode: '8744+FR Austin, Texas'
-    },
-
-    {
-      name: 'Outdoor Voices',
-      homepage: 'https://www.outdoorvoices.com/',
-      careers: 'https://www.outdoorvoices.com/pages/careers',
-      address: '606 Blanco St, Austin, TX 78703',
-      plusCode: '76FV+75 Austin, Texas',
     },
 
     {

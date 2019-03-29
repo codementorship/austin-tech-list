@@ -21,7 +21,7 @@
     {
       name: 'Aunt Bertha',
       homepage: 'https://www.auntbertha.com/',
-      careers: 'https://www.auntbertha.com/',
+      careers: '',
       address: '3429 Executive Center Dr, Austin, TX 78731',
       plusCode: '9753+F3 Austin, Texas'
     },
@@ -32,6 +32,14 @@
       careers: 'https://bloomfire.com/about-us/careers/',
       address: '1717 W 6th St, Austin, TX 78703',
       plusCode: '76GM+FM Austin, Texas'
+    },
+
+    {
+      name: 'Bright Health',
+      homepage: 'https://brighthealthplan.com/',
+      careers: 'https://jobs.lever.co/brighthealthplan',
+      address: '1135 W 6th St Suite 130, Austin, TX 78703',
+      plusCode: '76CR+XX Austin, Texas'
     },
 
     {
@@ -75,6 +83,22 @@
     },
 
     {
+      name: 'HotSchedules',
+      homepage: 'https://www.hotschedules.com/',
+      careers: 'https://www.hotschedules.com/careers/',
+      address: '6504 Bridge Point Pkwy Ste 425, Austin, TX 78730',
+      plusCode: '953W+XW Austin, Texas'
+    },
+
+    {
+      name: 'JASK',
+      homepage: 'https://jask.com/',
+      careers: 'https://jask.com/company/careers/',
+      address: '11501 Rock Rose Ave, Suite 200, Austin, TX 78758',
+      plusCode: 'C72G+5V Austin, Texas'
+    },
+
+    {
       name: 'Keet Health',
       homepage: 'https://www.keethealth.com/',
       careers: 'https://www.keethealth.com/jobs/',
@@ -91,6 +115,54 @@
     },
 
     {
+      name: 'Optimizely',
+      homepage: 'https://www.optimizely.com/',
+      careers: 'https://www.optimizely.com/careers/',
+      address: '600 Congress Ave, Austin, TX 78701',
+      plusCode: '7794+8R Austin, Texas'
+    },
+
+    {
+      name: 'Pinpoint',
+      homepage: 'https://pinpoint.com/',
+      careers: 'https://pinpoint.com/careers',
+      address: '11801 Domain Blvd, 3rd Floor, Austin, TX 78758',
+      plusCode: 'C74H+2G Austin, Texas'
+    },
+
+    {
+      name: 'Proof',
+      homepage: 'https://useproof.com/',
+      careers: 'https://useproof.com/careers',
+      address: '200 E 6th St #310, Austin, TX 78701',
+      plusCode: '7795+4H Austin, Texas'
+    },
+
+    {
+      name: 'RapidDeploy',
+      homepage: 'https://www.rapiddeploy.com/',
+      careers: 'https://www.rapiddeploy.com/careers',
+      address: '119 Nueces St RapidDeploy, 2nd Floor, Austin, TX 78701',
+      plusCode: '7782+64 Austin, Texas'
+    },
+
+    {
+      name: 'RetailMeNot',
+      homepage: 'https://www.retailmenot.com/',
+      careers: 'https://jobs.lever.co/retailmenot',
+      address: '301 Congress Ave #700, Austin, TX 78701',
+      plusCode: '7784+5J Austin, Texas'
+    },
+
+    {
+      name: 'RunTitle',
+      homepage: 'https://www.runtitle.com/',
+      careers: 'https://www.runtitle.com/careers',
+      address: '210 Barton Springs Rd #225, Austin, TX 78704',
+      plusCode: '7762+2R Austin, Texas'
+    },
+
+    {
       name: 'ShipStation',
       homepage: 'https://www.shipstation.com/',
       careers: 'https://www.shipstation.com/careers/',
@@ -99,11 +171,35 @@
     },
 
     {
+<<<<<<< HEAD
       name: 'Outdoor Voices',
       homepage: 'https://www.outdoorvoices.com/',
       careers: 'https://www.outdoorvoices.com/pages/careers',
       address: '606 Blanco St, Austin, TX 78703',
       plusCode: '76FV+75 Austin, Texas',
+=======
+      name: 'Social Solutions',
+      homepage: 'https://www.socialsolutions.com/',
+      careers: 'https://www.socialsolutions.com/about-us/working-here/careers/',
+      address: '10801 N Mopac Expy, Austin, TX 78759',
+      plusCode: '97X9+6W Austin, Texas'
+    },
+
+    {
+      name: 'Square Root',
+      homepage: 'https://square-root.com/',
+      careers: 'https://square-root.com/careers/',
+      address: '508 Oakland Ave, Austin, TX 78703',
+      plusCode: '76FQ+FF Austin, Texas'
+    },
+
+    {
+      name: 'Stoplight Inc',
+      homepage: 'https://stoplight.io/',
+      careers: 'https://angel.co/stoplight/jobs/',
+      address: '1100 S 1st St, Austin, TX 78704',
+      plusCode: '763W+8J Austin, Texas'
+>>>>>>> master
     },
 
     {
@@ -128,6 +224,14 @@
       careers: 'https://about.uship.com/careers/listings/',
       address: '205 E Riverside Dr, Austin, TX 78704',
       plusCode: '7734+W2 Austin, Texas'
+    },
+
+    {
+      name: 'YouEarnedIt',
+      homepage: 'https://youearnedit.com/',
+      careers: 'https://youearnedit.com/careers/',
+      address: '206 E 9th St, Austin, TX 78701',
+      plusCode: '77C6+64 Austin, Texas'
     }
   ]
   // THE LIST ENDS HERE

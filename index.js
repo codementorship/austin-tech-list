@@ -187,7 +187,7 @@
     },
 
     {
-      name: 'TrendKite'
+      name: 'TrendKite',
       homepage: 'https://www.trendkite.com/',
       careers: 'https://www.trendkite.com/careers',
       address: '800 Brazos St #340, Austin, TX 78701',

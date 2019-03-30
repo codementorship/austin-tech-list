@@ -243,6 +243,14 @@
     },
 
     {
+      name: 'Vyze',
+      homepage: 'https://vyze.com/',
+      careers: 'https://vyze.com/careers/',
+      address: '2700 W Anderson Ln Suite 119, Austin, TX 78757',
+      plusCode: '9758+G6 Austin, Texas'
+    },
+
+    {
       name: 'YouEarnedIt',
       homepage: 'https://youearnedit.com/',
       careers: 'https://youearnedit.com/careers/',

@@ -19,6 +19,15 @@
   // THE LIST STARTS HERE
   return [
     {
+      name: 'Alchemy Systems',
+      homepage: 'https://www.alchemysystems.com/',
+      careers:
+        'http://alchemysystems.hrmdirect.com/employment/job-openings.php',
+      address: '5301 Riata Park Ct F, Austin, TX 78727',
+      plusCode: 'C7J8+MW Austin, Texas'
+    },
+
+    {
       name: 'Aunt Bertha',
       homepage: 'https://www.auntbertha.com/',
       careers: '',
@@ -51,6 +60,14 @@
     },
 
     {
+      name: 'Carnegie Technologies',
+      homepage: 'https://www.carnegietechnologies.com/',
+      careers: 'https://www.carnegietechnologies.com/careers/',
+      address: '9737 Great Hills Trail #260, Austin, TX 78759',
+      plusCode: '96VX+62 Austin, Texas'
+    },
+
+    {
       name: 'Cloudflare',
       homepage: 'https://www.cloudflare.com/',
       careers: 'https://www.cloudflare.com/careers/departments/engineering/',
@@ -64,6 +81,14 @@
       careers: 'https://www.cognitivescale.com/careers/',
       address: '9500 Arboretum Blvd L-1, Austin, TX 78759',
       plusCode: '96RW+2J Austin, Texas'
+    },
+
+    {
+      name: 'Cox Automotive',
+      homepage: 'https://www.coxautoinc.com/',
+      careers: 'https://jobs.coxenterprises.com/Cox-Automotive',
+      address: '10415 Morado Cir, Austin, TX 78759',
+      plusCode: 'C722+G4 Austin, Texas'
     },
 
     {
@@ -83,6 +108,22 @@
     },
 
     {
+      name: 'Evernote',
+      homepage: 'https://evernote.com/',
+      careers: 'https://evernote.com/careers',
+      address: '3300 N Interstate 35 Frontage Rd #400, Austin, TX 78705',
+      plusCode: '77RG+GX Austin, Texas'
+    },
+
+    {
+      name: 'Forcepoint',
+      homepage: 'https://www.forcepoint.com/',
+      careers: 'https://forcepoint.wd1.myworkdayjobs.com/external-careers',
+      address: '10900 Stonelake Blvd #350, Austin, TX 78759',
+      plusCode: 'C727+QF Austin, Texas'
+    },
+
+    {
       name: 'Gartner',
       homepage: 'https://www.gartner.com/',
       careers: 'https://jobs.gartner.com/careers',
@@ -99,6 +140,14 @@
     },
 
     {
+      name: 'Help.com',
+      homepage: 'https://www.help.com/',
+      careers: 'https://jobs.help.com/',
+      address: '4016, 11000 Metric Blvd, Austin, TX 78758',
+      plusCode: '97QQ+QM Austin, Texas'
+    },
+
+    {
       name: 'HomeAway',
       homepage: 'https://www.homeaway.com/',
       careers: 'https://www.homeaway.com/careers/openings/',
@@ -112,6 +161,30 @@
       careers: 'https://www.hotschedules.com/careers/',
       address: '6504 Bridge Point Pkwy Ste 425, Austin, TX 78730',
       plusCode: '953W+XW Austin, Texas'
+    },
+
+    {
+      name: 'Indeed',
+      homepage: 'https://www.indeed.com/',
+      careers: 'https://www.indeed.jobs/',
+      address: '6433 Champion Grandview Way Building 1, Austin, TX 78750',
+      plusCode: '9674+5G Austin, Texas'
+    },
+
+    {
+      name: 'Indeed (Downtown)',
+      homepage: 'https://www.indeed.com/',
+      careers: 'https://www.indeed.jobs/',
+      address: '201 W 5th St 18th Floor, Austin, TX 78701',
+      plusCode: '7784+W3 Austin, Texas'
+    },
+
+    {
+      name: 'Interactions',
+      homepage: 'https://www.interactions.com/',
+      careers: 'https://www.interactions.com/about-us/careers/open-positions/',
+      address: '9101 Burnet Rd #203, Austin, TX 78758',
+      plusCode: '97FF+RR Austin, Texas'
     },
 
     {
@@ -139,6 +212,22 @@
     },
 
     {
+      name: 'Living Security',
+      homepage: 'https://www.livingsecurity.com/',
+      careers: 'https://www.livingsecurity.com/join-our-team',
+      address: '1401 Lavaca Street #122 Austin, TX 78701',
+      plusCode: '77G5+P5 Austin, Texas'
+    },
+
+    {
+      name: 'OJO',
+      homepage: 'https://landing.ojo.me/',
+      careers: 'https://corporate.ojo.me/careers',
+      address: '720 Brazos St #110, Austin, TX 78701',
+      plusCode: '7795+QH Austin, Texas'
+    },
+
+    {
       name: 'Optimizely',
       homepage: 'https://www.optimizely.com/',
       careers: 'https://www.optimizely.com/careers/',
@@ -163,11 +252,27 @@
     },
 
     {
+      name: 'Pushnami',
+      homepage: 'https://pushnami.com/',
+      careers: 'https://pushnami.com/careers/',
+      address: '6600 N Lamar Blvd, Austin, TX 78752',
+      plusCode: '87MH+R5 Austin, Texas'
+    },
+
+    {
       name: 'RapidDeploy',
       homepage: 'https://www.rapiddeploy.com/',
       careers: 'https://www.rapiddeploy.com/careers',
       address: '119 Nueces St RapidDeploy, 2nd Floor, Austin, TX 78701',
       plusCode: '7782+64 Austin, Texas'
+    },
+
+    {
+      name: 'Rebilly',
+      homepage: 'https://www.rebilly.com/',
+      careers: 'https://www.rebilly.com/careers/',
+      address: '3801 N Capital of Texas Hwy, Austin, TX 78746',
+      plusCode: '85MW+X5 Austin, Texas'
     },
 
     {
@@ -184,6 +289,14 @@
       careers: 'https://www.runtitle.com/careers',
       address: '210 Barton Springs Rd #225, Austin, TX 78704',
       plusCode: '7762+2R Austin, Texas'
+    },
+
+    {
+      name: 'ScaleFactor',
+      homepage: 'https://scalefactor.com/',
+      careers: 'https://scalefactor.com/careers/',
+      address: '1408 E 13th St, Austin, TX 78702',
+      plusCode: '77FG+P6 Austin, Texas'
     },
 
     {
@@ -232,6 +345,14 @@
       careers: 'https://thoughtbot.com/jobs#austin',
       address: '1601 W 6th St, Austin, TX 78703',
       plusCode: '76FP+VR Austin, Texas'
+    },
+
+    {
+      name: 'TrustRadius',
+      homepage: 'https://www.trustradius.com/',
+      careers: 'https://www.trustradius.com/static/careers',
+      address: '9737 Great Hills Trail Suite 340, Austin, TX 78759',
+      plusCode: '96VX+52 Austin, Texas'
     },
 
     {

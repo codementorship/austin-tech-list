@@ -84,6 +84,14 @@
     },
 
     {
+      name: 'Compeat',
+      homepage: 'https://www.compeat.com/',
+      careers: 'https://boards.greenhouse.io/compeat',
+      address: '11500 Alterra Pkwy #130, Austin, TX 78758',
+      plusCode: 'C72H+FF Austin, Texas'
+    },
+
+    {
       name: 'Cox Automotive',
       homepage: 'https://www.coxautoinc.com/',
       careers: 'https://jobs.coxenterprises.com/Cox-Automotive',
@@ -235,6 +243,14 @@
       plusCode: '7794+8R Austin, Texas'
     },
 
+     {
+      name: 'Outdoor Voices',
+      homepage: 'https://www.outdoorvoices.com/',
+      careers: 'https://www.outdoorvoices.com/pages/careers',
+      address: '606 Blanco St, Austin, TX 78703',
+      plusCode: '76FV+75 Austin, Texas'
+    },
+
     {
       name: 'Pinpoint',
       homepage: 'https://pinpoint.com/',
@@ -348,6 +364,14 @@
     },
 
     {
+      name: 'TrendKite',
+      homepage: 'https://www.trendkite.com/',
+      careers: 'https://www.trendkite.com/careers',
+      address: '800 Brazos St #340, Austin, TX 78701',
+      plusCode: '77C5+2M Austin, Texas'
+    },
+
+    {
       name: 'TrustRadius',
       homepage: 'https://www.trustradius.com/',
       careers: 'https://www.trustradius.com/static/careers',
@@ -369,6 +393,14 @@
       careers: 'https://vyze.com/careers/',
       address: '2700 W Anderson Ln Suite 119, Austin, TX 78757',
       plusCode: '9758+G6 Austin, Texas'
+    },
+
+    {
+      name: 'WP Engine',
+      homepage: 'https://wpengine.com/',
+      careers: 'https://wpengine-careers.com/job-openings/',
+      address: '504 Lavaca St #1000, Austin, TX 78701',
+      plusCode: '7793+7G Austin, Texas'
     },
 
     {

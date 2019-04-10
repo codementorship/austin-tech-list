@@ -236,19 +236,19 @@
     },
 
     {
-      name: 'Outdoor Voices',
-      homepage: 'https://www.outdoorvoices.com/',
-      careers: 'https://www.outdoorvoices.com/pages/careers',
-      address: '606 Blanco St, Austin, TX 78703',
-      plusCode: '76FV+75 Austin, Texas'
-    },
-
-    {
       name: 'Optimizely',
       homepage: 'https://www.optimizely.com/',
       careers: 'https://www.optimizely.com/careers/',
       address: '600 Congress Ave, Austin, TX 78701',
       plusCode: '7794+8R Austin, Texas'
+    },
+
+     {
+      name: 'Outdoor Voices',
+      homepage: 'https://www.outdoorvoices.com/',
+      careers: 'https://www.outdoorvoices.com/pages/careers',
+      address: '606 Blanco St, Austin, TX 78703',
+      plusCode: '76FV+75 Austin, Texas'
     },
 
     {

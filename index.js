@@ -386,6 +386,14 @@
     },
 
     {
+      name: 'Under Armour',
+      homepage: 'https://www.underarmour.com',
+      careers: 'https://careers.underarmour.com/austin',
+      address: '211 Walter Seaholm Dr #200, Austin, TX 78701',
+      plusCode: '768W+XW Austin, Texas',
+    },
+
+    {
       name: 'uShip',
       homepage: 'https://www.uship.com/',
       careers: 'https://about.uship.com/careers/listings/',

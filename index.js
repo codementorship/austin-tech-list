@@ -26,7 +26,13 @@
       address: '5301 Riata Park Ct F, Austin, TX 78727',
       plusCode: 'C7J8+MW Austin, Texas'
     },
-
+    {
+      name: 'Atlassian',
+      homepage: 'https://www.atlassian.com/',
+      careers: 'https://www.atlassian.com/company/careers/austin',
+      address: '303 Colorado St #1600, Austin, TX 78701',
+      plusCode: '7784+83 Austin, Texas'
+    },
     {
       name: 'Aunt Bertha',
       homepage: 'https://www.auntbertha.com/',
@@ -243,7 +249,7 @@
       plusCode: '7794+8R Austin, Texas'
     },
 
-     {
+    {
       name: 'Outdoor Voices',
       homepage: 'https://www.outdoorvoices.com/',
       careers: 'https://www.outdoorvoices.com/pages/careers',

@@ -29,15 +29,13 @@
     // company data in the correct order
     var innerListOrder = [
       'name',
-      'homepage',
-      'careers',
       'address',
       'plusCode'
     ]
 
     // Loop over the list of companies
     // making inner lists of the data
-    var innerListWrapper, innerList, listItem
+    var innerListWrapper, innerList, listItem, link
     list.forEach(function (entry) {
       innerListWrapper = create('li')
       outerList.appendChild(innerListWrapper)
@@ -50,10 +48,29 @@
         listItem.innerText = entry[key]
         innerList.appendChild(listItem)
       })
+
+      if (entry.homepage) {
+        listItem = create('li')
+        link = create('a')
+        link.innerText = 'Homepage'
+        link.href = entry.homepage
+        listItem.appendChild(link)
+        innerList.appendChild(listItem)
+      }
+
+      if (entry.careers) {
+        listItem = create('li')
+        link = create('a')
+        link.innerText = 'Careers'
+        link.href = entry.careers
+        listItem.appendChild(link)
+        innerList.appendChild(listItem)
+      }
     })
   }
 
   document.getElementById('filter-list').oninput = renderList
+  document.getElementById('list-count').innerText = 'Entries: ' + austinTechList.length
 
   renderList()
 })()

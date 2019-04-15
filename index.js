@@ -26,6 +26,7 @@
       address: '5301 Riata Park Ct F, Austin, TX 78727',
       plusCode: 'C7J8+MW Austin, Texas'
     },
+
     {
       name: 'Atlassian',
       homepage: 'https://www.atlassian.com/',
@@ -33,6 +34,7 @@
       address: '303 Colorado St #1600, Austin, TX 78701',
       plusCode: '7784+83 Austin, Texas'
     },
+
     {
       name: 'Aunt Bertha',
       homepage: 'https://www.auntbertha.com/',
@@ -390,7 +392,7 @@
       homepage: 'https://www.underarmour.com',
       careers: 'https://careers.underarmour.com/austin',
       address: '211 Walter Seaholm Dr #200, Austin, TX 78701',
-      plusCode: '768W+XW Austin, Texas',
+      plusCode: '768W+XW Austin, Texas'
     },
 
     {

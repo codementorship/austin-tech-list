@@ -108,11 +108,27 @@
     },
 
     {
+      name: 'data.world',
+      homepage: 'https://data.world/',
+      careers: 'https://data-world.breezy.hr/',
+      address: '7000 Mopac Service Rd #425, Austin, TX 78731',
+      plusCode: '9732+77 Austin, Texas'
+    },
+
+    {
       name: 'Drillinginfo',
       homepage: 'https://info.drillinginfo.com/',
       careers: 'https://info.drillinginfo.com/careers/',
       address: '2901 Vía Fortuna #200, Austin, TX 78746',
       plusCode: '752X+4X Austin, Texas'
+    },
+
+    {
+      name: 'Dun & Bradstreet',
+      homepage: 'https://www.dnb.com/',
+      careers: 'https://dnb.wd1.myworkdayjobs.com/Careers',
+      address: '7700 West Parmer Lane, Austin, TX 78729',
+      plusCode: 'F65X+96 Austin, Texas'
     },
 
     {
@@ -129,6 +145,15 @@
       careers: 'https://evernote.com/careers',
       address: '3300 N Interstate 35 Frontage Rd #400, Austin, TX 78705',
       plusCode: '77RG+GX Austin, Texas'
+    },
+
+    {
+      name: 'Fiserv',
+      homepage: 'https://www.fiserv.com/',
+      careers: 'https://www.careers.fiserv.com/',
+      address:
+        '8310 North Capital of Texas Hwy, Prominent Pointe Bldg 2, Suite 250, Austin, TX 78731',
+      plusCode: '96QJ+3G Austin, Texas'
     },
 
     {
@@ -228,6 +253,14 @@
     },
 
     {
+      name: 'Khoros',
+      homepage: 'https://khoros.com/',
+      careers: 'https://khoros.com/about/careers',
+      address: '6850 Austin Center Blvd #180, Austin, TX 78731',
+      plusCode: '962W+PW Austin, Texas'
+    },
+
+    {
       name: 'Living Security',
       homepage: 'https://www.livingsecurity.com/',
       careers: 'https://www.livingsecurity.com/join-our-team',
@@ -281,6 +314,14 @@
       careers: 'https://pushnami.com/careers/',
       address: '6600 N Lamar Blvd, Austin, TX 78752',
       plusCode: '87MH+R5 Austin, Texas'
+    },
+
+    {
+      name: 'Rabbet',
+      homepage: 'https://rabbet.com/',
+      careers: 'https://rabbet.com/career/',
+      address: '2700 W Anderson Lane, Suite 205-15, Austin, TX 78757',
+      plusCode: '9758+J7 Austin, Texas'
     },
 
     {

@@ -397,6 +397,14 @@
     },
 
     {
+      name: 'The University of Texas at Austin',
+      homepage: 'https://www.utexas.edu',
+      careers: 'https://www.utexas.edu/jobs',
+      address: '110 Inner Campus Drive, Austin, TX 78705',
+      plusCode: '77P6+F7 Austin, Texas'
+    },
+
+    {
       name: 'The Zebra',
       homepage: 'https://www.thezebra.com/',
       careers: 'https://www.thezebra.com/careers/#careers',

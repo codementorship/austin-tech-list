@@ -277,6 +277,14 @@
     },
 
     {
+      name: 'Meshify',
+      homepage: 'https://meshify.com/',
+      careers: '',
+      address: '706 W Ben White Blvd A, Austin, TX 78704',
+      plusCode: '66HH+4Q Austin, Texas'
+    },
+
+    {
       name: 'OJO',
       homepage: 'https://landing.ojo.me/',
       careers: 'https://corporate.ojo.me/careers',

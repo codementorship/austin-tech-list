@@ -301,6 +301,15 @@
     },
 
     {
+      name: 'PowerSchool',
+      homepage: 'https://www.powerschool.com/',
+      careers:
+        'https://www.powerschool.com/company/careers/powerschool-careers/',
+      address: '2705 Bee Caves Rd #345, Austin, TX 78746',
+      plusCode: '7697+M5 Austin, Texas'
+    },
+
+    {
       name: 'Proof',
       homepage: 'https://useproof.com/',
       careers: 'https://useproof.com/careers',

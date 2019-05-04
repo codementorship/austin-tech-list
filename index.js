@@ -261,6 +261,14 @@
     },
 
     {
+      name: 'Liveoak Technologies',
+      homepage: 'https://www.liveoak.net/',
+      careers: 'https://www.liveoak.net/about-us/careers/',
+      address: '600 Congress Ave, Austin, TX 78701',
+      plusCode: '7794+CP Austin, Texas'
+    },
+
+    {
       name: 'Living Security',
       homepage: 'https://www.livingsecurity.com/',
       careers: 'https://www.livingsecurity.com/join-our-team',

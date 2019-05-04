@@ -365,6 +365,14 @@
     },
 
     {
+      name: 'Senseye',
+      homepage: 'http://www.senseye.co/',
+      careers: 'https://senseye.workable.com/',
+      address: '801 Congress Ave Suite 200, Austin, TX 78701',
+      plusCode: '7795+X8 Austin, Texas'
+    },
+
+    {
       name: 'ShipStation',
       homepage: 'https://www.shipstation.com/',
       careers: 'https://www.shipstation.com/careers/',

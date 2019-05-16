@@ -261,11 +261,30 @@
     },
 
     {
+<<<<<<< HEAD
+=======
+      name: 'Liveoak Technologies',
+      homepage: 'https://www.liveoak.net/',
+      careers: 'https://www.liveoak.net/about-us/careers/',
+      address: '600 Congress Ave, Austin, TX 78701',
+      plusCode: '7794+CP Austin, Texas'
+    },
+
+    {
+>>>>>>> 41aa1ae489408454e6f323a2c3537911f2afb678
       name: 'Living Security',
       homepage: 'https://www.livingsecurity.com/',
       careers: 'https://www.livingsecurity.com/join-our-team',
       address: '1401 Lavaca Street #122 Austin, TX 78701',
       plusCode: '77G5+P5 Austin, Texas'
+    },
+
+    {
+      name: 'Meshify',
+      homepage: 'https://meshify.com/',
+      careers: '',
+      address: '706 W Ben White Blvd A, Austin, TX 78704',
+      plusCode: '66HH+4Q Austin, Texas'
     },
 
     {
@@ -298,6 +317,15 @@
       careers: 'https://pinpoint.com/careers',
       address: '11801 Domain Blvd, 3rd Floor, Austin, TX 78758',
       plusCode: 'C74H+2G Austin, Texas'
+    },
+
+    {
+      name: 'PowerSchool',
+      homepage: 'https://www.powerschool.com/',
+      careers:
+        'https://www.powerschool.com/company/careers/powerschool-careers/',
+      address: '2705 Bee Caves Rd #345, Austin, TX 78746',
+      plusCode: '7697+M5 Austin, Texas'
     },
 
     {
@@ -365,6 +393,14 @@
     },
 
     {
+      name: 'Senseye',
+      homepage: 'http://www.senseye.co/',
+      careers: 'https://senseye.workable.com/',
+      address: '801 Congress Ave Suite 200, Austin, TX 78701',
+      plusCode: '7795+X8 Austin, Texas'
+    },
+
+    {
       name: 'ShipStation',
       homepage: 'https://www.shipstation.com/',
       careers: 'https://www.shipstation.com/careers/',
@@ -394,6 +430,14 @@
       careers: 'https://angel.co/stoplight/jobs/',
       address: '1100 S 1st St, Austin, TX 78704',
       plusCode: '763W+8J Austin, Texas'
+    },
+
+    {
+      name: 'The University of Texas at Austin',
+      homepage: 'https://www.utexas.edu',
+      careers: 'https://www.utexas.edu/jobs',
+      address: '110 Inner Campus Drive, Austin, TX 78705',
+      plusCode: '77P6+F7 Austin, Texas'
     },
 
     {

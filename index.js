@@ -44,6 +44,14 @@
     },
 
     {
+      name: 'Bestow',
+      homepage: 'https://hellobestow.com/',
+      careers: 'https://hellobestow.com/careers/',
+      address: '106 E 6th St #220, Austin, TX 78701',
+      plusCode: '7795+63 Austin, Texas'
+    },
+
+    {
       name: 'Bloomfire',
       homepage: 'https://bloomfire.com/',
       careers: 'https://bloomfire.com/about-us/careers/',
@@ -73,6 +81,23 @@
       careers: 'https://www.carnegietechnologies.com/careers/',
       address: '9737 Great Hills Trail #260, Austin, TX 78759',
       plusCode: '96VX+62 Austin, Texas'
+    },
+
+    {
+      name: 'Catalyst Marketing',
+      homepage: 'https://thelyst.com/',
+      careers: 'https://thelyst.com/careers',
+      address: '110 Wild Basin Rd S #350, Austin, TX 78746',
+      plusCode: '854C+HV Austin, Texas'
+    },
+
+    {
+      name: 'Charles Schwab',
+      homepage: 'https://www.schwab.com/',
+      careers:
+        'https://www.schwabjobs.com/ListJobs/All/Search/schwab-position-located-in/Austin',
+      address: '2309 Gracy Farms Ln, Austin, TX 78758',
+      plusCode: '97XP+MX Austin, Texas'
     },
 
     {
@@ -181,6 +206,22 @@
     },
 
     {
+      name: 'Gotrans­verse',
+      homepage: 'https://gotransverse.com/',
+      careers: 'https://gotransverse.com/careers',
+      address: '600 Congress Ave #2800, Austin, TX 78701',
+      plusCode: '7794+FP Austin, Texas'
+    },
+
+    {
+      name: 'Headspring',
+      homepage: 'https://headspring.com/',
+      careers: 'https://headspring.com/about/careers/',
+      address: '10415 Morado Cir #300, Austin, TX 78759',
+      plusCode: 'C722+H9 Austin, Texas'
+    },
+
+    {
       name: 'Help.com',
       homepage: 'https://www.help.com/',
       careers: 'https://jobs.help.com/',
@@ -218,6 +259,14 @@
       careers: 'https://www.indeed.jobs/',
       address: '201 W 5th St 18th Floor, Austin, TX 78701',
       plusCode: '7784+W3 Austin, Texas'
+    },
+
+    {
+      name: 'Indio',
+      homepage: 'https://www.useindio.com/',
+      careers: 'https://www.useindio.com/careers/',
+      address: '1300 Guadalupe St Ste 400, Austin, TX 78701',
+      plusCode: '77G4+GF Austin, Texas'
     },
 
     {
@@ -261,8 +310,14 @@
     },
 
     {
-<<<<<<< HEAD
-=======
+      name: 'Lightspeed Systems',
+      homepage: 'https://www.lightspeedsystems.com/',
+      careers: 'https://www.lightspeedsystems.com/company/careers/',
+      address: '2500 Bee Caves Rd #350, Austin, TX 78746',
+      plusCode: '7698+76 Austin, Texas'
+    },
+
+    {
       name: 'Liveoak Technologies',
       homepage: 'https://www.liveoak.net/',
       careers: 'https://www.liveoak.net/about-us/careers/',
@@ -271,7 +326,6 @@
     },
 
     {
->>>>>>> 41aa1ae489408454e6f323a2c3537911f2afb678
       name: 'Living Security',
       homepage: 'https://www.livingsecurity.com/',
       careers: 'https://www.livingsecurity.com/join-our-team',
@@ -285,6 +339,14 @@
       careers: '',
       address: '706 W Ben White Blvd A, Austin, TX 78704',
       plusCode: '66HH+4Q Austin, Texas'
+    },
+
+    {
+      name: 'MODintelechy',
+      homepage: 'https://modintelechy.com/',
+      careers: 'https://modintelechy.com/careers/',
+      address: '1201 W 24th St #104, Austin, TX 78705',
+      plusCode: '76QX+7M Austin, Texas'
     },
 
     {
@@ -417,6 +479,22 @@
     },
 
     {
+      name: 'SolarWinds',
+      homepage: 'https://www.solarwinds.com/',
+      careers: 'https://solarwinds.jobs/texas/usa/jobs/',
+      address: 'Bldg 400, 7171 Southwest Pkwy, Austin, TX 78735',
+      plusCode: '742Q+87 Austin, Texas'
+    },
+
+    {
+      name: 'SparkCognition',
+      homepage: 'https://www.sparkcognition.com/',
+      careers: 'https://www.sparkcognition.com/careers/',
+      address: '4030 W Braker Ln #500, Austin, TX 78759',
+      plusCode: '97X7+86 Austin, Texas'
+    },
+
+    {
       name: 'Square Root',
       homepage: 'https://square-root.com/',
       careers: 'https://square-root.com/careers/',
@@ -510,6 +588,14 @@
       careers: 'https://youearnedit.com/careers/',
       address: '206 E 9th St, Austin, TX 78701',
       plusCode: '77C6+64 Austin, Texas'
+    },
+
+    {
+      name: 'ZeroCater',
+      homepage: 'https://zerocater.com/',
+      careers: 'https://zerocater.com/about/careers/',
+      address: '127 E Riverside Dr #101, Austin, TX 78704',
+      plusCode: '7743+6Q Austin, Texas'
     }
   ]
   // THE LIST ENDS HERE

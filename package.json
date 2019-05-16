@@ -1,6 +1,6 @@
 {
   "name": "austin-tech-list",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A list of places that hire Austin developers",
   "main": "index.js",
   "unpkg": "index.js",

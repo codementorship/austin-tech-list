@@ -487,6 +487,14 @@
     },
 
     {
+      name: 'SpareFoot',
+      homepage: 'https://www.sparefoot.com/',
+      careers: 'https://about.sparefoot.com/jobs',
+      address: '3300 N Interstate Hwy 35 Suite 200, Austin, TX 78705',
+      plusCode: '77RG+FV Austin, Texas'
+    },
+
+    {
       name: 'SparkCognition',
       homepage: 'https://www.sparkcognition.com/',
       careers: 'https://www.sparkcognition.com/careers/',

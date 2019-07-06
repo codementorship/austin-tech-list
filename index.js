@@ -604,7 +604,8 @@
       careers: 'https://zerocater.com/about/careers/',
       address: '127 E Riverside Dr #101, Austin, TX 78704',
       plusCode: '7743+6Q Austin, Texas'
-    }
+    } 
+    
   ]
   // THE LIST ENDS HERE
 })

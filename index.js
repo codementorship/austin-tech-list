@@ -439,6 +439,14 @@
     },
 
     {
+      name: 'Rev.com',
+      homepage: 'https://www.rev.com',
+      careers: 'https://www.rev.com/careers',
+      address: '1002 West Ave, Austin, TX 78701',
+      plusCode: '77F2+Q7 Austin, Texas'
+    },
+
+    {
       name: 'RunTitle',
       homepage: 'https://www.runtitle.com/',
       careers: 'https://www.runtitle.com/careers',

@@ -463,6 +463,14 @@
     },
 
     {
+      name: 'Self Lender',
+      homepage: 'https://www.selflender.com/',
+      careers: 'https://www.selflender.com/careers',
+      address: '515 Congress Ave #2200, Austin, TX 78701',
+      plusCode: '7794+3X Austin, Texas'
+    },
+
+    {
       name: 'Senseye',
       homepage: 'http://www.senseye.co/',
       careers: 'https://senseye.workable.com/',

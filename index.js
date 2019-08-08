@@ -19,6 +19,14 @@
   // THE LIST STARTS HERE
   return [
     {
+      name: 'AffiniPay',
+      homepage: 'https://affinipay.com/',
+      careers: 'https://affinipay.com/about/join-our-team/',
+      address: '3700 N Capital of Texas Hwy #300, Austin, TX 78746',
+      plusCode: '85PV+H3 Austin, Texas'
+    },
+
+    {
       name: 'Alchemy Systems',
       homepage: 'https://www.alchemysystems.com/',
       careers:
@@ -154,6 +162,22 @@
       careers: 'https://dnb.wd1.myworkdayjobs.com/Careers',
       address: '7700 West Parmer Lane, Austin, TX 78729',
       plusCode: 'F65X+96 Austin, Texas'
+    },
+
+    {
+      name: 'Edgenuity',
+      homepage: 'https://www.edgenuity.com/',
+      careers: 'https://www.edgenuity.com/about-edgenuity/careers/',
+      address: '11501 Domain Dr #160, Austin, TX 78758',
+      plusCode: 'C72G+MF Austin, Texas'
+    },
+
+    {
+      name: 'Enthought',
+      homepage: 'https://www.enthought.com/',
+      careers: 'https://www.enthought.com/careers/',
+      address: '200 W Cesar Chavez St Suite 202, Austin, TX 78701',
+      plusCode: '7773+PC Austin, Texas'
     },
 
     {
@@ -391,6 +415,14 @@
     },
 
     {
+      name: 'Procore',
+      homepage: 'https://www.procore.com/',
+      careers: 'https://www.procore.com/jobs/openings',
+      address: '221 W 6th St, Austin, TX 78701',
+      plusCode: '7793+5W Austin, Texas'
+    },
+
+    {
       name: 'Proof',
       homepage: 'https://useproof.com/',
       careers: 'https://useproof.com/careers',
@@ -420,6 +452,14 @@
       careers: 'https://www.rapiddeploy.com/careers',
       address: '119 Nueces St RapidDeploy, 2nd Floor, Austin, TX 78701',
       plusCode: '7782+64 Austin, Texas'
+    },
+
+    {
+      name: 'RealMassive',
+      homepage: 'https://www.realmassive.com/',
+      careers: 'https://www.realmassive.com/careers/',
+      address: '8501 N Mopac Expy Suite 210, Austin, TX 78759',
+      plusCode: '97C6+F2 Austin, Texas'
     },
 
     {
@@ -484,6 +524,14 @@
       careers: 'https://www.shipstation.com/careers/',
       address: '3800 N Lamar Blvd #220, Austin, TX 78756',
       plusCode: '8744+FR Austin, Texas'
+    },
+
+    {
+      name: 'Smarter Sorting',
+      homepage: 'https://smartersorting.com/',
+      careers: 'https://jobs.lever.co/smartersorting',
+      address: '2900 E Cesar Chavez St, Austin, TX 78702',
+      plusCode: '773Q+49 Austin, Texas'
     },
 
     {
@@ -580,6 +628,30 @@
       careers: 'https://careers.underarmour.com/austin',
       address: '211 Walter Seaholm Dr #200, Austin, TX 78701',
       plusCode: '768W+XW Austin, Texas'
+    },
+
+    {
+      name: 'Unity',
+      homepage: 'https://unity.com/',
+      careers: 'https://careers.unity.com/location/austin',
+      address: '2815 Manor Rd, Austin, TX 78722',
+      plusCode: '77PQ+3G Austin, Texas'
+    },
+
+    {
+      name: 'Unizin',
+      homepage: 'https://unizin.org/',
+      careers: 'https://unizin.org/about/careers/',
+      address: '807 Brazos Street Suite 500, Austin, TX 78701',
+      plusCode: '77C5+2V Austin, Texas'
+    },
+
+    {
+      name: 'Upswing',
+      homepage: 'https://upswing.io/',
+      careers: 'https://angel.co/upswing/jobs',
+      address: '210 Barton Springs Rd #100, Austin, TX 78704',
+      plusCode: '7762+3V Austin, Texas'
     },
 
     {

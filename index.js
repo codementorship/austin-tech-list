@@ -5,15 +5,15 @@
  * the list using their preferred method
  * and is inspired by webpackUniversalModuleDefinition
  */
-;(function universalModuleDefinition(root, factory) {
+(function universalModuleDefinition(root, factory) {
   if (typeof exports === 'object' && typeof module === 'object') {
-    module.exports = factory()
+    module.exports = factory();
   } else if (typeof define === 'function' && define.amd) {
-    define('austinTechList', [], factory)
+    define('austinTechList', [], factory);
   } else if (typeof exports === 'object') {
-    exports['austinTechList'] = factory()
+    exports['austinTechList'] = factory();
   } else {
-    root['austinTechList'] = factory()
+    root['austinTechList'] = factory();
   }
 })(this, function factory() {
   // THE LIST STARTS HERE
@@ -138,6 +138,15 @@
       careers: 'https://jobs.coxenterprises.com/Cox-Automotive',
       address: '10415 Morado Cir, Austin, TX 78759',
       plusCode: 'C722+G4 Austin, Texas'
+    },
+
+    {
+      name: 'CreditShop',
+      homepage: 'https://www.creditshop.com/',
+      careers:
+        'https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6776582f-cf69-403a-a33d-188c99ba02b1&ccId=2102569570_2585',
+      address: '504 Lavaca St, Austin, TX 78701',
+      plusCode: '7793+7J Austin, Texas'
     },
 
     {
@@ -693,6 +702,6 @@
       address: '127 E Riverside Dr #101, Austin, TX 78704',
       plusCode: '7743+6Q Austin, Texas'
     }
-  ]
+  ];
   // THE LIST ENDS HERE
-})
+});

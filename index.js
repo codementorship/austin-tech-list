@@ -505,6 +505,14 @@
     },
 
     {
+      name: 'RigUp',
+      homepage: 'https://www.rigup.com/',
+      careers: 'https://www.rigup.com/careers',
+      address: '111 Congress Ave Suite 900, Austin, TX 78701',
+      plusCode: '7774+CH Austin, Texas'
+    },
+
+    {
       name: 'RunTitle',
       homepage: 'https://www.runtitle.com/',
       careers: 'https://www.runtitle.com/careers',

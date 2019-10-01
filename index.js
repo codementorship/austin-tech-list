@@ -141,6 +141,15 @@
     },
 
     {
+      name: 'CreditShop',
+      homepage: 'https://www.creditshop.com/',
+      careers:
+        'https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6776582f-cf69-403a-a33d-188c99ba02b1&ccId=2102569570_2585',
+      address: '504 Lavaca St, Austin, TX 78701',
+      plusCode: '7793+7J Austin, Texas'
+    },
+
+    {
       name: 'data.world',
       homepage: 'https://data.world/',
       careers: 'https://data-world.breezy.hr/',

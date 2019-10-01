@@ -5,15 +5,15 @@
  * the list using their preferred method
  * and is inspired by webpackUniversalModuleDefinition
  */
-(function universalModuleDefinition(root, factory) {
+;(function universalModuleDefinition(root, factory) {
   if (typeof exports === 'object' && typeof module === 'object') {
-    module.exports = factory();
+    module.exports = factory()
   } else if (typeof define === 'function' && define.amd) {
-    define('austinTechList', [], factory);
+    define('austinTechList', [], factory)
   } else if (typeof exports === 'object') {
-    exports['austinTechList'] = factory();
+    exports['austinTechList'] = factory()
   } else {
-    root['austinTechList'] = factory();
+    root['austinTechList'] = factory()
   }
 })(this, function factory() {
   // THE LIST STARTS HERE
@@ -701,6 +701,6 @@
       address: '127 E Riverside Dr #101, Austin, TX 78704',
       plusCode: '7743+6Q Austin, Texas'
     }
-  ];
+  ]
   // THE LIST ENDS HERE
-});
+})

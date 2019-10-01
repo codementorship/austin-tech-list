@@ -512,6 +512,14 @@
     },
 
     {
+      name: 'Seasoned',
+      homepage: 'https://www.seasoned.co/',
+      careers: 'http://jobs.jobvite.com/seasoned/jobs',
+      address: '6504 Bridge Point Pkwy Ste 425, Austin, TX 78730',
+      plusCode: '953W+XW Austin, Texas'
+    },
+
+    {
       name: 'Self Lender',
       homepage: 'https://www.selflender.com/',
       careers: 'https://www.selflender.com/careers',

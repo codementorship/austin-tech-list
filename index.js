@@ -232,6 +232,14 @@
     },
 
     {
+      name: 'FrogSlayer',
+      homepage: 'https://frogslayer.com/',
+      careers: 'https://careers.frogslayer.com/current-openings',
+      address: '909 Southwest Pkwy E, College Station, TX 77840',
+      plusCode: 'JP82+H4 College Station, Texas'
+    },
+
+    {
       name: 'Gartner',
       homepage: 'https://www.gartner.com/',
       careers: 'https://jobs.gartner.com/careers',

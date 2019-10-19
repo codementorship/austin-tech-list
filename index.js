@@ -513,6 +513,14 @@
     },
 
     {
+      name: 'Rex',
+      homepage: 'https://www.rexhomes.com/',
+      careers: 'https://www.rexhomes.com/careers',
+      address: '3300 N N Interstate Hwy 35 Suite 149, Austin, TX 78705',
+      plusCode: '77RG+FX Austin, Texas'
+    },
+
+    {
       name: 'RigUp',
       homepage: 'https://www.rigup.com/',
       careers: 'https://www.rigup.com/careers',

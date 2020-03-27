@@ -29,8 +29,7 @@
     {
       name: 'Alchemy Systems',
       homepage: 'https://www.alchemysystems.com/',
-      careers:
-        'http://alchemysystems.hrmdirect.com/employment/job-openings.php',
+      careers: 'https://www.alchemysystems.com/about-us/careers/',
       address: '5301 Riata Park Ct F, Austin, TX 78727',
       plusCode: 'C7J8+MW Austin, Texas'
     },

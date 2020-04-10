@@ -75,6 +75,14 @@
     },
 
     {
+      name: 'Builder Homesite',
+      homepage: 'https://www.builderhomesite.com/',
+      careers: 'https://www.builderhomesite.com/current-openings/',
+      address: '11900 Ranch Rd 620 N, Austin, TX 78750',
+      plusCode: 'F55G+MV Austin, Texas',
+    },
+
+    {
       name: 'Bumble',
       homepage: 'https://bumble.com/',
       careers: 'https://bumble.com/jobs',
@@ -228,6 +236,14 @@
       careers: 'https://forcepoint.wd1.myworkdayjobs.com/external-careers',
       address: '10900 Stonelake Blvd #350, Austin, TX 78759',
       plusCode: 'C727+QF Austin, Texas'
+    },
+
+    {
+      name: 'FrogSlayer',
+      homepage: 'https://frogslayer.com/',
+      careers: 'https://careers.frogslayer.com/current-openings',
+      address: '909 Southwest Pkwy E, College Station, TX 77840',
+      plusCode: 'JP82+H4 College Station, Texas'
     },
 
     {
@@ -501,6 +517,14 @@
       careers: 'https://www.rev.com/careers',
       address: '1002 West Ave, Austin, TX 78701',
       plusCode: '77F2+Q7 Austin, Texas'
+    },
+
+    {
+      name: 'Rex',
+      homepage: 'https://www.rexhomes.com/',
+      careers: 'https://www.rexhomes.com/careers',
+      address: '3300 N N Interstate Hwy 35 Suite 149, Austin, TX 78705',
+      plusCode: '77RG+FX Austin, Texas'
     },
 
     {

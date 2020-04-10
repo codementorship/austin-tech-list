@@ -231,6 +231,14 @@
     },
 
     {
+      name: 'FrogSlayer',
+      homepage: 'https://frogslayer.com/',
+      careers: 'https://careers.frogslayer.com/current-openings',
+      address: '909 Southwest Pkwy E, College Station, TX 77840',
+      plusCode: 'JP82+H4 College Station, Texas'
+    },
+
+    {
       name: 'Gartner',
       homepage: 'https://www.gartner.com/',
       careers: 'https://jobs.gartner.com/careers',
@@ -501,6 +509,14 @@
       careers: 'https://www.rev.com/careers',
       address: '1002 West Ave, Austin, TX 78701',
       plusCode: '77F2+Q7 Austin, Texas'
+    },
+
+    {
+      name: 'Rex',
+      homepage: 'https://www.rexhomes.com/',
+      careers: 'https://www.rexhomes.com/careers',
+      address: '3300 N N Interstate Hwy 35 Suite 149, Austin, TX 78705',
+      plusCode: '77RG+FX Austin, Texas'
     },
 
     {
